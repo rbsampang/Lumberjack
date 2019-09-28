@@ -6,5 +6,7 @@ various components of the DE1-SoC board such as its keys, HEX displays, private/
 to control and display the different parts parts of the game.
 
 ![Alt text](/Lumberjack_OpeningScreen.png?raw=true "Lumberjack_OpeningScreen")
+A screenshot of the opening screen of the game
 
 ![Alt text](/Lumberjack_Gameplay.png?raw=true "Lumberjack_Gameplay")
+A screenshot of the game being played
