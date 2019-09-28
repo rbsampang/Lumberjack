@@ -7,4 +7,4 @@ to control and display the different parts parts of the game.
 
 ![Alt text](/Lumberjack_OpeningScreen.png?raw=true "Lumberjack_OpeningScreen")
 
-![Alt text](/Lumberjack_OpeningGameplay.png?raw=true "Lumberjack_Gameplay")
+![Alt text](/Lumberjack_Gameplay.png?raw=true "Lumberjack_Gameplay")
